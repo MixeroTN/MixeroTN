@@ -7,6 +7,9 @@
 
 # Welcome to my GitHub profile!
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/mixerotn)
+[![Profile views](https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge)](#---)
+
 ## Funfacts about me
 
 - 🌱 I’m currently learning **Go programming language and CI/CD pipeline**
