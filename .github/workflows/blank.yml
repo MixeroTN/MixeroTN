@@ -16,5 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: ✅ Metrics updated
           COMMIT_USERNAME: Metrics Bot
+          TIME_RANGE: all_time
           SHOW_TIMEZONE: True
           SHOW_LANGUAGE: True
