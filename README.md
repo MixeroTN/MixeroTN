@@ -7,6 +7,9 @@
 
 # Welcome to my GitHub profile!
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/mixerotn)
+![Profile views](https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge)
+
 ## Funfacts about me
 
 - 🌱 I’m currently learning **Go programming language and CI/CD pipeline**
@@ -17,11 +20,11 @@
 
 ## Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,nodejs,bash,powershell,py,cs,react)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,bash,powershell,py,cs,react)](https://skillicons.dev)
 
 ## Want to learn
 
-[![Want to learn](https://skillicons.dev/icons?i=docker,rust,cpp,unreal,unity,vim,dart,jquery)](https://skillicons.dev)
+[![Want to learn](https://skillicons.dev/icons?i=docker,rust,cpp,unreal,unity,vim,dart,jquery,nodejs)](https://skillicons.dev)
 
 ## Stats
 
