@@ -15,16 +15,18 @@
 - 🍕 I have plans to make my own website
 - ⌨️ Working on Windows and Arch Linux. Previously also on macOS and other Linux distros
 
-## Languages and Tools:
+## Languages and Tools
 
 [![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,bash,powershell,py,cs,react)](https://skillicons.dev)
 
-## Want to learn:
+## Want to learn
 
 [![Want to learn](https://skillicons.dev/icons?i=docker,rust,cpp,unreal,unity,vim,dart,jquery,nodejs)](https://skillicons.dev)
+
+## Stats
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-Stats soon 😉
+Soon 😉
