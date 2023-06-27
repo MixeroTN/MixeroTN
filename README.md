@@ -59,5 +59,9 @@ YAML                     2 mins              ░░░░░░░░░░░�
 
 
  Last Updated on 27/06/2023 22:05:44 UTC
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+<details>
+  <summary><b>🏆 Achievements</b></summary>
+  <img src = "https://metrics.lecoq.io/MixeroTN?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=PL%2FWarsaw" width = "75%"/>
 </details>
