@@ -29,7 +29,7 @@
 ## Miscellaneous
 
 <details>
-  <summary><b>Stats</b></summary>
+  <summary><b>🚀 Stats</b></summary>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
