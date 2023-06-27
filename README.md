@@ -20,11 +20,11 @@
 
 ## Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,bash,powershell,py,cs,react)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,bash,powershell,py,cs,nodejs,react)](https://skillicons.dev)
 
 ## Want to learn
 
-[![Want to learn](https://skillicons.dev/icons?i=docker,rust,cpp,unreal,unity,vim,dart,jquery,nodejs)](https://skillicons.dev)
+[![Want to learn](https://skillicons.dev/icons?i=docker,rust,cpp,unreal,unity,vim,jquery,dart)](https://skillicons.dev)
 
 ## Miscellaneous
 
