@@ -32,34 +32,7 @@
   <summary><b>🚀 Stats</b></summary>
   <br>
   <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 155.1 kB Used in GitHub's Storage 
- > 
-> 🏆 587 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Warsaw
-
-💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ████████████░░░░░░░░░░░░░   47.04 % 
-Go                       47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Git Config               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Lua                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-```
-
-
- Last Updated on 28/06/2023 17:05:41 UTC
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
 <details>
   <summary><b>🏆 Achievements</b></summary>
