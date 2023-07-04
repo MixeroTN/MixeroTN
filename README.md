@@ -20,97 +20,48 @@
 
 ## Languages and Tools
 
-[![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,bash,powershell,py,cs,react)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=lua,go,git,ts,html,css,githubactions,mysql,docker,bash,powershell,py,cs,nodejs,react)](https://skillicons.dev)
 
 ## Want to learn
 
-[![Want to learn](https://skillicons.dev/icons?i=docker,rust,cpp,unreal,unity,vim,dart,jquery,nodejs)](https://skillicons.dev)
+[![Want to learn](https://skillicons.dev/icons?i=rust,cpp,unreal,unity,vim,sass,jquery,sentry,vercel,dart)](https://skillicons.dev)
 
 ## Miscellaneous
 
 <details>
   <summary><b>🚀 Stats</b></summary>
+  <br>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2026%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 155.0 kB Used in GitHub's Storage 
+> 📦 159.8 kB Used in GitHub's Storage 
  > 
-> 🏆 371 Contributions in the Year 2023
+> 🏆 515 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 31 Private Repositories 
+> 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-🌆 Daytime                497 commits         ██████████████░░░░░░░░░░░   56.54 % 
-🌃 Evening                295 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Tuesday                  179 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Wednesday                275 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Thursday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Friday                   38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ██████████████░░░░░░░░░░░   57.11 % 
-Go                       47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Lua                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Rust                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   98.92 % 
-Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-
-🐱‍💻 Projects: 
-MixeroTN                 1 hr 59 mins        ██████████████░░░░░░░░░░░   57.94 % 
-Go                       48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-PowerCitySimulator       36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-
-💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Lua                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-ASL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Go                       4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Lua                      2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+TOML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MixeroTN/MixeroTN/main/assets/bar_graph.png)
-
-
- Last Updated on 27/06/2023 08:08:30 UTC
+ Last Updated on 04/07/2023 16:06:04 UTC
 <!--END_SECTION:waka-->
+</details>
+<details>
+  <summary><b>🏆 Achievements</b></summary>
+  <img src = "https://metrics.lecoq.io/MixeroTN?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=PL%2FWarsaw" width = "75%"/>
 </details>
