@@ -12,7 +12,7 @@
 
 ## Funfacts about me
 
-- 🌱 I’m currently learning **Go programming language and CI/CD pipeline**
+- 🌱 I’m currently learning **developing Go Apps with Docker**
 - 🎮 My current job is **rewriting the Roblox experience (Luau) with the team using Rojo**
 - ✨ My goal is to work in **game development as a tester with coding skills**
 - 🍕 I have plans to make my own website
