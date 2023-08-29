@@ -1,4 +1,5 @@
 * linguist-detectable=true
 * linguist-vendored=false
 
+*INI linguist-vendored=true
 *md linguist-documentation=false
