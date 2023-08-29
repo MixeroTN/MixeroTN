@@ -1,2 +1,4 @@
 * linguist-detectable=true
 * linguist-vendored=false
+
+*md linguist-documentation=false
