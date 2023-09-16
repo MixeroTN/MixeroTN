@@ -24,7 +24,7 @@
 
 ## Want to learn
 
-[![Want to learn](https://skillicons.dev/icons?i=svelte,kubernetes,cpp,unreal,unity,sass,jquery,sentry,vercel,dart)](https://skillicons.dev)
+[![Want to learn](https://skillicons.dev/icons?i=svelte,kubernetes,cpp,godot,unreal,sass,jquery,sentry,vercel,dart)](https://skillicons.dev)
 
 ## Miscellaneous
 
