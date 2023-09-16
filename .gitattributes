@@ -6,4 +6,4 @@
 * linguist-vendored=false
 
 *.git* linguist-vendored=true
-*md linguist-documentation=false
+*.md linguist-documentation=false
