@@ -34,11 +34,11 @@
 
 > 📦 169.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,145 Contributions in the Year 2023
+> 🏆 1,485 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 50 Private Repositories 
  > 
@@ -48,12 +48,12 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Lua                      1 hr 8 mins         █████████████████████████   98.19 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Lua                      40 mins             ████████████████████████░   96.95 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 
 
- Last Updated on 07/11/2023 10:01:38 UTC
+ Last Updated on 07/11/2023 14:01:42 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
