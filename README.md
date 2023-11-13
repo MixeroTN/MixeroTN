@@ -20,7 +20,7 @@
 </ul>
 <h2>Languages and Tools</h2>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=lua,rust,go,git,ts,html,css,githubactions,mysql,docker,bash,powershell,py,cpp,nodejs" title="Languages and tools: Lua, Rust, Go, Git, TypeScript, HTML, CSS, GitHub Actions, MySQL, Docker, Bash, Powershell, Python, C++, node.js" alt="The image displaying the languages and tools I'm familiar with: Lua, Rust, Go, Git, TypeScript, HTML, CSS, GitHub Actions, MySQL, Docker, Bash, Powershell, Python, C++, node.js"></a>
+  <img src="https://skillicons.dev/icons?i=lua,rust,go,git,ts,html,css,githubactions,mysql,docker,bash,cs,cpp,powershell,py,nodejs" title="Languages and tools: Lua, Rust, Go, Git, TypeScript, HTML, CSS, GitHub Actions, MySQL, Docker, Bash, C#, C++, Powershell, Python, node.js" alt="The image displaying the languages and tools I'm familiar with: Lua, Rust, Go, Git, TypeScript, HTML, CSS, GitHub Actions, MySQL, Docker, Bash, C Sharp, C++, Powershell, Python, node.js"></a>
 <h2>Want to learn</h2>
 <a href="https://skillicons.dev" rel="external">
   <img src="https://skillicons.dev/icons?i=svelte,sass,godot,unreal,kubernetes,sentry,vercel,dart" title="Want to learn: Svelte, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart" alt="The image displaying the languages and tools I want to learn: Svelte, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart"></a>
