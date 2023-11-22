@@ -105,10 +105,10 @@ No Activity Tracked This Week
   </ul>
 </details>
 <details>
-  <summary><b>📑 Certificates</b></summary>
+  <summary><b>📑 Certifications</b></summary>
   <br>
   <ul>
-    <li><b><a href="https://drive.google.com/file/d/0B5GfjiWdW_4hWFFrd0swRHN1bTg/view?resourcekey=0-ErneZOLUYTxDNl2FQwKPiw" rel="external">Internet Marketing Course Completion Certificate - Google</a></li>
+    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on Linkedin</a></li>
   </ul>
 </details>
 <details>
