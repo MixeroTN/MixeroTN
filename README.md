@@ -20,10 +20,10 @@
 </ul>
 <h2>Languages and Tools</h2>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=lua,rust,go,git,ts,html,css,githubactions,mysql,docker,bash,cs,cpp,powershell,py,nodejs" title="Languages and tools: Lua, Rust, Go, Git, TypeScript, HTML, CSS, GitHub Actions, MySQL, Docker, Bash, C#, C++, Powershell, Python, node.js" alt="The image displaying the languages and tools I'm familiar with: Lua, Rust, Go, Git, TypeScript, HTML, CSS, GitHub Actions, MySQL, Docker, Bash, C Sharp, C++, Powershell, Python, node.js"></a>
+  <img src="https://skillicons.dev/icons?i=lua,git,go,rust,ts,html,css,tailwind,githubactions,postgresql,mysql,docker,bash,cs,cpp,powershell,py,nodejs" title="Languages and tools: Lua, Git, Go, Rust, TypeScript, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Docker, Bash, C#, C++, Powershell, Python, node.js" alt="The image displaying the languages and tools I'm familiar with: Lua, Git, Go, Rust, TypeScript, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Docker, Bash, C Sharp, C++, Powershell, Python, node.js"></a>
 <h2>Want to learn</h2>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=svelte,sass,godot,unreal,kubernetes,sentry,vercel,dart" title="Want to learn: Svelte, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart" alt="The image displaying the languages and tools I want to learn: Svelte, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart"></a>
+  <img src="https://skillicons.dev/icons?i=react,sass,godot,unreal,kubernetes,sentry,vercel,dart" title="Want to learn: React, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart" alt="The image displaying the languages and tools I want to learn: React, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart"></a>
 <h2>Miscellaneous</h2>
 <details>
   <summary><b>🚀 Stats</b></summary>
@@ -108,7 +108,7 @@ No Activity Tracked This Week
   <summary><b>📑 Certifications</b></summary>
   <br>
   <ul>
-    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on Linkedin</a></li>
+    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on LinkedIn</a></li>
   </ul>
 </details>
 <details>
