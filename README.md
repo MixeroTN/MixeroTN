@@ -32,7 +32,7 @@
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 169.3 kB Used in GitHub's Storage 
+> 📦 169.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,516 Contributions in the Year 2023
  > 
@@ -48,15 +48,11 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               1 hr                ████████████░░░░░░░░░░░░░   46.79 % 
-Bash                     39 mins             ████████░░░░░░░░░░░░░░░░░   30.53 % 
-Prisma                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/11/2023 22:01:37 UTC
+ Last Updated on 30/11/2023 10:01:59 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
