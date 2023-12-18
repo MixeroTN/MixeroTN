@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" title="Profile views" alt="The image displaying a profile views. The linked page also provides the view count in the title."></a>
 <h2>Funfacts about me</h2>
 <ul>
-  <li>🌱 I’m currently learning <strong>developing Go Apps with Docker, building a websites with React/Svelte/HTMX and Go/TS</strong></li>
-  <li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li>
-  <li>✨ My goal is to work <strong>in game development starting as a tester with coding skills</strong> / <strong>as a fullstack web developer</strong></li>
-  <li>🍕 I have plans to make my own website</li>
+  <li>🌱 I’m currently learning <strong>data operations on Google Cloud, building websites with React/HTMX and Go/TS</strong></li>
+  <!--<li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li>-->
+  <li>✨ My goal is to work <strong>in game development starting as a tester with coding skills</strong> / <strong>as a full-stack web developer</strong></li>
+  <li>🍕 I have plans to make my own website soon</li>
   <li>⌨️ Working on Windows and Arch Linux. Previously also on macOS and other Linux distros</li>
 </ul>
 <h2>Languages and Tools</h2>
