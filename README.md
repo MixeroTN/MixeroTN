@@ -109,16 +109,17 @@ No Activity Tracked This Week
   <br>
   <ul>
     <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on LinkedIn</a></li>
+    <li><b><a href="https://www.cloudskillsboost.google/public_profiles/88f39348-93f8-4373-9634-e109601452ac" rel="external">Google Cloud Skills Boost profile</a></b></li>
   </ul>
 </details>
 <details>
-  <summary><b>🖍️ Community</b></summary>
+  <summary><b>🖍️ Communities</b></summary>
   <br>
   <a href="https://holopin.io/@mixerotn" rel="external">
     <img src="https://holopin.me/mixerotn" title="View the full Hopolin profile" alt="An image of @mixerotn's Holopin badges, which is a link to view their full Holopin profile">
   </a>
   <hr>
   <ul>
-    <li><b><a href="https://tree-nation.com/certificate/6525f1085fc4b" rel="external">🌳 Tree planted with Hacktoberfest</a></b></li>
+    <li><b><a href="https://tree-nation.com/certificate/6525f1085fc4b" rel="external">🌳 Tree planted with Hacktoberfest 2023</a></b></li>
   </ul>
 </details>
