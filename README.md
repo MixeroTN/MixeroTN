@@ -14,7 +14,7 @@
 <ul>
   <li>🌱 I’m currently learning <strong>building websites with React/HTMX and Go/TS, software testing essentials</strong></li>
   <!--<li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li>-->
-  <li>✨ My goal is to work <strong>as a QA Automation/Manual Tester</strong>and after an engineering studies <strong>as a software/data engineer</strong></li>
+  <li>✨ My goal is to work <strong>as QA Automation/Manual Tester</strong> and after an engineering studies <strong>as software/data engineer</strong></li>
   <li>🍕 I'm preparing to create my portfolio website soon</li>
   <li>⌨️ Working on Windows and Arch Linux. Previously tried MacOS and other Linux distros</li>
 </ul>
