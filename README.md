@@ -48,11 +48,12 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      3 mins              ███████████████████████░░   92.67 % 
+TOML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 
- Last Updated on 26/01/2024 22:01:30 UTC
+ Last Updated on 27/01/2024 10:01:30 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
