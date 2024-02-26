@@ -13,7 +13,7 @@
 <h2>Funfacts about me</h2>
 <ul>
   <li>🌱 I’m currently learning <strong>building websites with React/HTMX and Go/TS, software testing essentials</strong></li>
-  <!--<li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li>-->
+  <!-- <li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li> -->
   <li>✨ My goal is to work as <strong>QA Automation/Manual Tester</strong> and after an engineering studies as <strong>Software/Data Engineer</strong></li>
   <li>🍕 I'm preparing to create my portfolio website soon</li>
   <li>⌨️ Working on Windows and Arch Linux. Previously tried MacOS and other Linux distros</li>
@@ -111,7 +111,7 @@ Text                     0 secs              ░░░░░░░░░░░�
   <summary><b>📑 Certifications</b></summary>
   <br>
   <ul>
-    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on LinkedIn</a></li>
+    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on LinkedIn</a></b></li>
     <li><b><a href="https://www.cloudskillsboost.google/public_profiles/88f39348-93f8-4373-9634-e109601452ac" rel="external">Google Cloud Skills Boost profile</a></b></li>
   </ul>
 </details>
