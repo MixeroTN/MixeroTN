@@ -77,7 +77,7 @@ Text                     0 secs              ░░░░░░░░░░░�
   </ul>
   <h4>Translation (English to Polish)</h4>
   <ul>
-    <li><b><a href="https://store.steampowered.com/about" rel="external">Steam - Games Platform</a>&nbsp&nbsp<a href="https://imgur.com/PJmSwHb" rel="external">[Steam Translation Server - Closed]</a></b></li>
+    <li><b><a href="https://store.steampowered.com/about" rel="external">Steam - Games Platform</a> - [ <a href="https://imgur.com/PJmSwHb" rel="external">Steam Translation Server - Closed</a> ]</b></li>
     <li><b><a href="https://mattermost.com" rel="external">Mattermost - Collaboration Hub</a></b></li>
     <li><b><a href="https://www.roblox.com/games/9938675423" rel="external">Oaklands - Roblox Game</a></b></li>
     <li><b><a href="https://premid.app" rel="external">PreMiD - Discord Rich Presence Tool</a></b></li>
