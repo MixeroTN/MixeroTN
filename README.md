@@ -72,7 +72,7 @@ Text                     0 secs              ░░░░░░░░░░░�
   <h3>Team Collaboration</h3>
   <h4>Games [Roblox]</h4>
   <ul>
-    <li><b><a href="https://www.roblox.com/games/6772319845" rel="external">Power City Simulator</a></b></li>
+    <li><b><a href="https://www.roblox.com/games/6772319845" rel="external">Power City Simulator</a> - [ <a href="https://github.com/Power-Zone?view_as=public" rel="external">GitHub page</a> ]</b></li>
     <li><b>City of Juneau, Scotvia</b></li>
   </ul>
   <h4>Translation (English to Polish)</h4>
@@ -111,7 +111,7 @@ Text                     0 secs              ░░░░░░░░░░░�
   <summary><b>📑 Certifications</b></summary>
   <br>
   <ul>
-    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on LinkedIn</a></b></li>
+    <li><b><a href="https://www.linkedin.com/in/michalgo/details/certifications" rel="external">My certifications on LinkedIn</a> (log in first)</b></li>
     <li><b><a href="https://www.cloudskillsboost.google/public_profiles/88f39348-93f8-4373-9634-e109601452ac" rel="external">Google Cloud Skills Boost profile</a></b></li>
   </ul>
 </details>
