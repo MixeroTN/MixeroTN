@@ -12,18 +12,20 @@
   <img src="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" title="Profile views" alt="The image displaying a profile views. The linked page also provides the view count in the title."></a>
 <h2>Funfacts about me</h2>
 <ul>
-  <li>🌱 I’m currently learning <strong>building websites with React/HTMX and Go/TS, software testing essentials</strong></li>
+  <li>🌱 I’m currently learning <strong>software testing, building websites with React</strong></li>
   <!-- <li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li> -->
-  <li>✨ My goal is to work as <strong>QA Automation/Manual Tester</strong> and after an engineering studies as <strong>Software/Data Engineer</strong></li>
-  <li>🍕 I'm preparing to create my portfolio website soon</li>
+  <li>✨ My goal is to work as <strong>Automation/Manual Tester</strong></li>
+  <li>🍕 I'm going to create my portfolio website soon</li>
   <li>⌨️ Working on Windows and Arch Linux. Previously tried MacOS and other Linux distros</li>
 </ul>
 <h2>Languages and Tools</h2>
+<h3>Experienced</h4>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=lua,git,go,rust,ts,html,css,tailwind,githubactions,postgresql,mysql,docker,bash,cs,cpp,powershell,py,nodejs" title="Languages and tools: Lua, Git, Go, Rust, TypeScript, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Docker, Bash, C#, C++, Powershell, Python, node.js" alt="The image displaying the languages and tools I'm familiar with: Lua, Git, Go, Rust, TypeScript, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Docker, Bash, C Sharp, C++, Powershell, Python, node.js"></a>
-<h2>Want to learn</h2>
+  <img src="https://skillicons.dev/icons?i=lua,go,rust,ts,cs,java,py,bash,gcp,docker,html,css,tailwind,githubactions,postgresql,mysql,neovim,robloxstudio,arduino" title="Languages and tools: Lua, Go, Rust, TypeScript, C#, Java, Python, Bash, Google Cloud, Docker, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino" alt="The image displaying the languages and tools I'm familiar with: Lua, Go, Rust, TypeScript, C Sharp, Java, Python, Bash, Google Cloud, Docker, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino"></a>
+<h3>Want to learn</h4>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=react,sass,godot,unreal,kubernetes,sentry,vercel,dart" title="Want to learn: React, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart" alt="The image displaying the languages and tools I want to learn: React, Sass, Godot, Unreal Engine, Kubernetes, Sentry, Vercel, Dart"></a>
+  <img src="https://skillicons.dev/icons?i=react,postman,jenkins,htmx,sentry,flutter" title="Want to learn: React, Postman, Jenkins, HTMX, Sentry, Flutter" alt="The image displaying the languages and tools I want to learn: React, Postman, Jenkins, HTMX, Sentry, Flutter"></a>
+<h6>Names are displayed when the cursor hovers over the icons</h6>
 <h2>Miscellaneous</h2>
 <details>
   <summary><b>🚀 Stats</b></summary>
