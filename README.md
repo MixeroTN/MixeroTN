@@ -48,11 +48,11 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2024 22:01:33 UTC
+ Last Updated on 11/04/2024 10:01:29 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
