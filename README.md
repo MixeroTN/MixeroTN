@@ -129,4 +129,8 @@ Markdown                 3 mins              ░░░░░░░░░░░�
   <ul>
     <li><b><a href="https://tree-nation.com/certificate/6525f1085fc4b" rel="external">🌳 Tree planted with Hacktoberfest 2023</a></b></li>
   </ul>
+  <hr>
+  <ul>
+    <li><b><a href="https://g.dev/mxtn" rel="external">Google Developer profile</a></b></li>
+  </ul>
 </details>
