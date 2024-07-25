@@ -12,8 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" title="Profile views" alt="The image displaying a profile views. The linked page also provides the view count in the title."></a>
 <h2>Funfacts about me</h2>
 <ul>
-  <li>🌱 I’m currently learning <strong>software testing (automation), building websites with React</strong></li>
-  <!-- <li>🎮 My current job is <strong>developing the Roblox experience (Luau) using external tools with a team and managing it's cloud structure</strong></li> -->
+  <li>🌱 I’m currently learning <strong>software testing (automation), building advanced websites with React</strong></li>
   <li>✨ My goal is to work as <strong>Game Developer</strong> / <strong>Automation Software Tester</strong></li>
   <li>🍕 I'm going to create my portfolio website soon</li>
   <li>⌨️ Working on Windows and Arch Linux. Previously tried MacOS and other Linux distros</li>
