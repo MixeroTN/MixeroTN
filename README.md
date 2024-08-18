@@ -4,7 +4,7 @@
     <img align="right" width="16%" src="./img/peace-hand-light.svg" alt="Peace Hand">
   </picture>
 </a>
-<h1>Welcome to my Github profile!</h1>
+<h1>Welcome to my GitHub profile!</h1>
 <a href="https://bmc.link/mixerotn" rel="external">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" title="Buy me a coffee" alt="A 'Buy me a coffee' button, which is a link to the funding profile"></a>
 <!-- <a href="#---" rel="tag"> -->
@@ -15,15 +15,15 @@
   <li>🌱 I’m currently learning <strong>software testing (automation), building advanced websites with React</strong></li>
   <li>✨ My goal is to work as <strong>Game Developer</strong> / <strong>Automation Software Tester</strong></li>
   <li>🍕 I'm going to create my portfolio website soon</li>
-  <li>⌨️ Working on Windows and Arch Linux. Previously tried MacOS and other Linux distros</li>
+  <li>⌨️ Currently working on Windows. Previously tried MacOS and many Linux distros</li>
 </ul>
 <h2>Languages and Tools</h2>
 <h3>Experienced</h4>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=lua,go,rust,ts,cs,java,py,bash,gcp,docker,html,css,tailwind,githubactions,postgresql,mysql,neovim,robloxstudio,arduino" title="Languages and tools: Lua, Go, Rust, TypeScript, C#, Java, Python, Bash, Google Cloud, Docker, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino" alt="The image displaying the languages and tools I'm familiar with: Lua, Go, Rust, TypeScript, C Sharp, Java, Python, Bash, Google Cloud, Docker, HTML, CSS, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,ts,go,cs,java,rust,lua,py,bash,gcp,docker,html,css,react,tailwind,githubactions,postgresql,mysql,neovim,robloxstudio,arduino" title="Languages and tools: Luau, TypeScript, Go, C#, Java, Rust, Lua, Python, Bash, Google Cloud, Docker, HTML, CSS, React, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino" alt="The image displaying the languages and tools I'm familiar with: Luau, TypeScript, Go, C Sharp, Java, Rust, Lua, Python, Bash, Google Cloud, Docker, HTML, CSS, React, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino"></a>
 <h3>Want to learn</h4>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://skillicons.dev/icons?i=react,postman,jenkins,htmx,sentry,flutter" title="Want to learn: React, Postman, Jenkins, HTMX, Sentry, Flutter" alt="The image displaying the languages and tools I want to learn: React, Postman, Jenkins, HTMX, Sentry, Flutter"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,jenkins,htmx,sentry,flutter" title="Want to learn: Postman, Jenkins, HTMX, Sentry, Flutter" alt="The image displaying the languages and tools I want to learn: Postman, Jenkins, HTMX, Sentry, Flutter"></a>
 <h6>Names are displayed when the cursor hovers over the icons</h6>
 <h2>Miscellaneous</h2>
 <details>
