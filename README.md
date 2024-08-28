@@ -69,6 +69,7 @@ Luau                     1 hr 3 mins         █░░░░░░░░░░�
   <ul>
     <li><b><a href="https://www.roblox.com/games/4877047257" rel="external">CodeDel's Showcases</a></b></li>
     <li><b><a href="https://www.roblox.com/games/10375794729" rel="external">IA Dev Testing Hub</a></b></li>
+    <h4><i>and few more...</i></h4>
   </ul>
   <hr>
   <h3>Team Collaboration</h3>
@@ -76,6 +77,7 @@ Luau                     1 hr 3 mins         █░░░░░░░░░░�
   <ul>
     <li><b><a href="https://www.roblox.com/games/6772319845" rel="external">Power City Simulator</a> - [ <a href="https://github.com/Power-Zone?view_as=public" rel="external">GitHub page</a> ]</b></li>
     <li><b>City of Juneau, Scotvia</b></li>
+    <h4><i>and few more...</i></h4>
   </ul>
   <h4>Translation (English to Polish)</h4>
   <ul>
@@ -89,6 +91,19 @@ Luau                     1 hr 3 mins         █░░░░░░░░░░�
   </ul>
   <hr>
   <h3>Open Source Projects</h3>
+  <h4>Special Forks</h4>
+  <ul>
+    <li><b><a href="https://github.com/MixeroTN/Translumo" rel="external">Translumo</a> - 
+      Polish language included, considering to add more and continuing a project appearing to be abandoned
+    </li>
+    <li><b><a href="https://github.com/MixeroTN/stateye" rel="external">stateye</a> - 
+      Modified Rich Presence appearance
+    </li>
+    <li><b><a href="https://github.com/MixeroTN/Cmdr" rel="external">Cmdr</a> - 
+      Cmdr package modified to work with Knit framework, further support is not planned
+    </li>
+  </ul>
+  <h4>Pull Requests</h4>
   <ul>
     <li><b><a href="https://github.com/microsoft/semantic-kernel" rel="external">microsoft/semantic-kernel</a> - 
       <a href="https://github.com/microsoft/semantic-kernel/pull/1870" rel="external">#1870</a></b>
