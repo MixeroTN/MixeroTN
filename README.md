@@ -13,7 +13,7 @@
 <h2>Funfacts about me</h2>
 <ul>
   <li>🌱 I’m currently learning <strong>React + TS + Roblox stack, software testing (automation), building advanced websites with React</strong></li>
-  <li>✨ My goal is to work as <strong>Game Developer</strong> / <strong>Automation Software Tester</strong></li>
+  <li>✨ I'm currently working as <strong>Roblox Game Programmer</strong>
   <li>🍕 I'm going to create my portfolio website soon</li>
   <li>⌨️ Currently working on Windows. Previously tried MacOS and many Linux distros</li>
 </ul>
