@@ -35,11 +35,11 @@
 
 > 📦 177.6 kB Used in GitHub's Storage 
  > 
-> 🏆 449 Contributions in the Year 2024
+> 🏆 451 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 55 Private Repositories 
  > 
@@ -49,13 +49,12 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Luau                     18 hrs 51 mins      █████████████████████████   99.99 % 
+Luau                     18 hrs 39 mins      █████████████████████████   99.99 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 14/11/2024 22:01:38 UTC
+ Last Updated on 15/11/2024 10:01:41 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
