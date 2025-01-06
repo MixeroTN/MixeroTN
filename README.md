@@ -35,7 +35,7 @@
 
 > 📦 179.9 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
+> 🏆 9 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,8 +43,19 @@
  > 
 > 🔑 56 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 06/01/2025 14:01:32 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Luau                     4 hrs 3 mins        █████████████████████████   99.89 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+```
+
+
+ Last Updated on 06/01/2025 18:01:47 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
