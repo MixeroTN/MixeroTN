@@ -49,11 +49,11 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Luau                     43 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2025 22:01:27 UTC
+ Last Updated on 25/02/2025 10:01:40 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
