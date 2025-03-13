@@ -107,6 +107,9 @@ No Activity Tracked This Week
     <li><b><a href="https://github.com/roblox-ts/services" rel="external">roblox-ts/services</a> - 
       <a href="https://github.com/roblox-ts/services/pull/78" rel="external">#78</a></b>
     </li>
+    <li><b><a href="https://github.com/roblox-ts/types" rel="external">roblox-ts/types</a> - 
+      <a href="https://github.com/roblox-ts/types/pull/1336" rel="external">#1336</a></b>
+    </li>
     <li><b><a href="https://github.com/EbookFoundation/free-programming-books" rel="external">EbookFoundation/free-programming-books</a> - 
       <a href="https://github.com/EbookFoundation/free-programming-books/pull/9806" rel="external">#9806</a>, <a href="https://github.com/EbookFoundation/free-programming-books/pull/9820" rel="external">#9820</a></b>
     </li>
