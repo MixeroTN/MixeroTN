@@ -33,7 +33,7 @@
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 180.1 kB Used in GitHub's Storage 
+> 📦 180.0 kB Used in GitHub's Storage 
  > 
 > 🏆 97 Contributions in the Year 2025
  > 
@@ -49,11 +49,11 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Luau                     32 mins             █████████████████████████   100.00 % 
+Luau                     16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2025 22:01:33 UTC
+ Last Updated on 02/05/2025 10:01:41 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
