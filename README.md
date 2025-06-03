@@ -65,16 +65,19 @@ Lua                      0 secs              ░░░░░░░░░░░�
   <span>GitHub Projects are not displayed here</span>
   <h4>Games [Roblox]</h4>
   <ul>
-    <li><b><a href="https://www.roblox.com/games/4877047257" rel="external">CodeDel's Showcases</a></b></li>
+    <li><b><a href="https://www.roblox.com/games/4877047257" rel="external">CodeDel's Showcases 2020</a></b></li>
     <li><b><a href="https://www.roblox.com/games/10375794729" rel="external">IA Dev Testing Hub</a></b></li>
+    <li><b><a href="https://www.roblox.com/games/1594720770" rel="external">Elite of Snipers 2018</a></b></li>
+    <li><b><a href="https://www.roblox.com/games/2157418675" rel="external">Gray City 2018 Showcase</a></b></li>
     <h4><i>and few more...</i></h4>
   </ul>
   <hr>
   <h3>Team Collaboration</h3>
-  <h4>Games [Roblox]</h4>
+  <h4>Games [Roblox]   (Corporate projects not mentioned = lead/dev/ux)</h4>
   <ul>
-    <li><b><a href="https://www.roblox.com/games/6772319845" rel="external">Power City Simulator</a> - [ <a href="https://github.com/Power-Zone?view_as=public" rel="external">GitHub page</a> ]</b></li>
-    <li><b>City of Juneau, Scotvia</b></li>
+    <li><b>Homeless Simulator (Release Soon) - wareDEV</b></li>
+    <li><b><a href="https://www.roblox.com/games/6772319845" rel="external">Power City Simulator</a> - [ <a href="https://github.com/Power-Zone?view_as=public" rel="external">PowerZone</a> ]</b></li>
+    <li><b>City of Juneau, Scotvia - commission</b></li>
     <h4><i>and few more...</i></h4>
   </ul>
   <h4>Translation (English to Polish)</h4>
