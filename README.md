@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" title="Profile views" alt="The image displaying a profile views. The linked page also provides the view count in the title."></a>
 <h2>Funfacts about me</h2>
 <ul>
-  <li>🌱 I’m currently learning <strong>React + TS + Roblox stack, React advanced web development</strong></li>
-  <li>✨ I'm currently working as <strong>Roblox Game Programmer</strong></li>
+  <li>🌱 I’m currently learning <strong>advanced reactive web development</strong></li>
+  <li>✨ I'm currently working as a <strong>Lead Game Developer</strong></li>
   <li>🍕 I'm going to create my portfolio website soon</li>
-  <li>⌨️ Currently working on Windows. Previously tried MacOS and many Linux distros</li>
+  <li>⌨️ Studying Management part-time</li>
 </ul>
 <h2>Languages and Tools</h2>
 <h3>Experienced</h4>
@@ -77,7 +77,9 @@ Markdown                 1 min               ░░░░░░░░░░░�
   <h3>Team Collaboration</h3>
   <h4>Games [Roblox]   (Corporate projects not mentioned = lead/dev/ux)</h4>
   <ul>
-    <li><b>Homeless Simulator (Release Soon) - wareDEV</b></li>
+    <li><b><a href="https://www.roblox.com/games/123815674642132" rel="external">Poland Tour (Roblox x PGA Contest) - Flying Onion Studios</a></b></li>
+    <li><b><a href="https://www.roblox.com/games/127288438560235" rel="external">Steal an Animal - FARM PROJECTS</a></b></li>
+    <li><b><a href="https://www.roblox.com/games/17808035177" rel="external">Homeless Simulator - wareDEV</a></b></li>
     <li><b><a href="https://www.roblox.com/games/6772319845" rel="external">Power City Simulator</a> - [ <a href="https://github.com/Power-Zone?view_as=public" rel="external">PowerZone</a> ]</b></li>
     <li><b>City of Juneau, Scotvia - commission</b></li>
     <h4><i>and few more...</i></h4>
@@ -96,11 +98,11 @@ Markdown                 1 min               ░░░░░░░░░░░�
   <h3>Open Source Projects</h3>
   <h4>Special Forks</h4>
   <ul>
-    <li><b><a href="https://github.com/MixeroTN/Translumo" rel="external">Translumo</a> - 
-      Polish language included, considering to add more and continuing a project appearing to be abandoned
+    <li><b><a href="https://github.com/MixeroTN/TranslumoEnchanced" rel="external">Translumo</a> - 
+      More languages included comparing to original project during the abandonment
     </li>
     <li><b><a href="https://github.com/MixeroTN/stateye" rel="external">stateye</a> - 
-      Modified Rich Presence appearance
+      Simplified Rich Presence appearance
     </li>
     <li><b><a href="https://github.com/MixeroTN/Cmdr" rel="external">Cmdr</a> - 
       Cmdr package modified to work with Knit framework, further support is not planned
@@ -108,6 +110,9 @@ Markdown                 1 min               ░░░░░░░░░░░�
   </ul>
   <h4>Pull Requests</h4>
   <ul>
+    <li><b><a href="https://github.com/ramjke/Translumo" rel="external">ramjke/Translumo</a> - 
+      <a href="https://github.com/ramjke/Translumo/pull/131" rel="external">#131</a></b>
+    </li>
     <li><b><a href="https://github.com/microsoft/semantic-kernel" rel="external">microsoft/semantic-kernel</a> - 
       <a href="https://github.com/microsoft/semantic-kernel/pull/1870" rel="external">#1870</a></b>
     </li>
