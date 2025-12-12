@@ -33,7 +33,7 @@
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 155.1 kB Used in GitHub's Storage 
+> 📦 151.5 kB Used in GitHub's Storage 
  > 
 > 🏆 711 Contributions in the Year 2025
  > 
@@ -41,7 +41,7 @@
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 47 Private Repositories 
+> 🔑 46 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -57,7 +57,7 @@ Bash                     3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/12/2025 18:02:15 UTC
+ Last Updated on 12/12/2025 22:01:54 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
