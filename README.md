@@ -35,7 +35,7 @@
 
 > 📦 151.6 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,8 +43,21 @@
  > 
 > 🔑 46 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/01/2026 14:01:57 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Other                    25 hrs 39 mins      ████████████████████░░░░░   79.95 % 
+Luau                     6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+```
+
+
+ Last Updated on 03/01/2026 18:02:07 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
