@@ -13,8 +13,8 @@
 <h2>Funfacts about me</h2>
 <ul>
   <li>🌱 I’m currently learning <strong>advanced reactive web development</strong></li>
-  <li>✨ I'm currently working as a <strong>Lead Game Developer</strong></li>
-  <li>🍕 I'm going to create my portfolio website soon</li>
+  <li>✨ Working in game development
+  <li>🍕 Planning to create my portfolio website soon</li>
   <li>⌨️ Studying Management part-time</li>
 </ul>
 <h2>Languages and Tools</h2>
