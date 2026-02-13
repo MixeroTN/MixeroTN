@@ -35,7 +35,7 @@
 
 > 📦 151.8 kB Used in GitHub's Storage 
  > 
-> 🏆 149 Contributions in the Year 2026
+> 🏆 150 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,12 +49,12 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    23 hrs 31 mins      ███████████████████████░░   90.37 % 
-Luau                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Other                    16 hrs 44 mins      ██████████████████████░░░   87.86 % 
+Luau                     2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 
 
- Last Updated on 12/02/2026 22:04:56 UTC
+ Last Updated on 13/02/2026 10:11:49 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
