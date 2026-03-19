@@ -49,12 +49,11 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    1 hr 33 mins        █████████████████████████   99.24 % 
-Luau                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/03/2026 22:05:40 UTC
+ Last Updated on 19/03/2026 10:11:26 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
