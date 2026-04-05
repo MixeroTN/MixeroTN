@@ -49,14 +49,14 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    19 hrs 12 mins      █████████████████████████   98.26 % 
-Luau                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    32 hrs 42 mins      ████████████████████████░   96.46 % 
+Luau                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 
- Last Updated on 04/04/2026 22:03:44 UTC
+ Last Updated on 05/04/2026 10:07:24 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
