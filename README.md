@@ -33,9 +33,9 @@
   <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 151.9 kB Used in GitHub's Storage 
+> 📦 151.8 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2026
+> 🏆 270 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,15 +49,15 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    20 hrs 38 mins      ███████████████████░░░░░░   76.09 % 
-Luau                     6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    14 hrs 30 mins      █████████████████░░░░░░░░   69.22 % 
+Luau                     6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 07/05/2026 22:20:00 UTC
+ Last Updated on 08/05/2026 10:29:14 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
