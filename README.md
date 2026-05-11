@@ -49,15 +49,13 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    6 hrs 24 mins       █████████████░░░░░░░░░░░░   52.04 % 
-Luau                     5 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    3 hrs 19 mins       ███████████████░░░░░░░░░░   58.70 % 
+Luau                     2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.27 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 
- Last Updated on 10/05/2026 22:13:32 UTC
+ Last Updated on 11/05/2026 11:00:26 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
