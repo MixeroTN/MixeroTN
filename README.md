@@ -43,8 +43,19 @@
  > 
 > 🔑 47 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 14/05/2026 22:21:06 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Other                    1 hr 35 mins        ██████████████░░░░░░░░░░░   57.88 % 
+Luau                     1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   41.06 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+```
+
+
+ Last Updated on 15/05/2026 10:45:14 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
