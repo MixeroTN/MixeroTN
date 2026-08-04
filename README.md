@@ -31,7 +31,7 @@
   <p>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2031%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,18 +51,34 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Luau                     1 hr 7 mins         ████████████████████████░   97.82 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Luau                     29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (100.0%)
+
+✍️ 583 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,734,406 Input Tokens, 31,845 Output Tokens
+
+💵 $19.01 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      588 lines           █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 487 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 14:58:16 UTC
+ Last Updated on 04/08/2026 10:51:12 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
