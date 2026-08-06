@@ -33,7 +33,7 @@
 
 > 📦 152.0 kB Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2026
+> 🏆 280 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,16 +47,16 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Luau                     1 hr 31 mins        ██████████████████████░░░   89.20 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Luau                     1 hr 31 mins        █████████████████░░░░░░░░   66.94 % 
+Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (98.71%)
+⏱ AI Coding Time: 1 hr 41 mins (74.09%)
 
 ✍️ 4,403 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -77,7 +77,7 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/08/2026 22:47:59 UTC
+ Last Updated on 06/08/2026 11:56:01 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
