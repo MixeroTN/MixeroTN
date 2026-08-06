@@ -4,26 +4,22 @@
     <img align="right" width="16%" src="./img/peace-hand-light.svg" alt="Peace Hand">
   </picture>
 </a>
-<h1>Welcome to my GitHub profile!</h1>
-<a href="https://bmc.link/mixerotn" rel="external">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" title="Buy me a coffee" alt="A 'Buy me a coffee' button, which is a link to the funding profile"></a>
+<h1>Hi there, I'm Michał! 👋</h1>
 <!-- <a href="#---" rel="tag"> -->
+<h3>Senior Lua/Roblox Developer | Technical Architect | Open-Source Contributor</h3>
 <a href="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" rel="external">
   <img src="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" title="Profile views" alt="The image displaying a profile views. The linked page also provides the view count in the title."></a>
 <h2>Funfacts about me</h2>
 <ul>
-  <li>🌱 I’m currently learning <strong>advanced reactive web development</strong></li>
-  <li>✨ Working in game development
-  <li>🍕 Planning to create my portfolio website soon</li>
-  <li>⌨️ Studying Management part-time</li>
+  <li>🏗️ <b>Currently:</b> Architecting scalable Roblox experiences & maintaining the <strong>Altair</strong> framework.</li>
+  <li>🧠 <b>Focusing on:</b> AI-assisted development workflows, strict Luau type-checking, and modern architectures.</li>
+  <li>🌱 <b>Experimenting with:</b> Bringing modern web paradigms (<code>roblox-ts</code>, <code>React</code>) into the Roblox ecosystem.</li>
+  <li>🎓 <b>Education:</b> Studying Management (Part-time) to blend technical expertise with project leadership.</li>
 </ul>
 <h2>Languages and Tools</h2>
-<h3>Experienced</h4>
+<h3>Experienced</h3>
 <a href="https://skillicons.dev" rel="external">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,ts,go,cs,java,rust,lua,py,bash,gcp,docker,html,css,react,tailwind,githubactions,postgresql,mysql,neovim,robloxstudio,arduino" title="Languages and tools: Luau, TypeScript, Go, C#, Java, Rust, Lua, Python, Bash, Google Cloud, Docker, HTML, CSS, React, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino" alt="The image displaying the languages and tools I'm familiar with: Luau, TypeScript, Go, C Sharp, Java, Rust, Lua, Python, Bash, Google Cloud, Docker, HTML, CSS, React, Tailwind CSS, GitHub Actions, PostgreSQL, MySQL, Neovim, Roblox Studio, Arduino"></a>
-<h3>Want to learn</h4>
-<a href="https://skillicons.dev" rel="external">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,jenkins,htmx,sentry,flutter" title="Want to learn: Postman, Jenkins, HTMX, Sentry, Flutter" alt="The image displaying the languages and tools I want to learn: Postman, Jenkins, HTMX, Sentry, Flutter"></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=luau,lua,ts,py,react,tailwind,docker,git,robloxstudio" title="Languages and tools: Luau, Lua, TypeScript, Python, React, Tailwind, Docker, Git, Roblox Studio" alt="The image displaying the languages and tools I'm familiar with: Luau, Lua, TypeScript, Python, React, Tailwind, Docker, Git, Roblox Studio"></a>
 <h6>Names are displayed when the cursor hovers over the icons</h6>
 <h2>Miscellaneous</h2>
 <details>
