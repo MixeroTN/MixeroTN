@@ -27,6 +27,8 @@
   <p>
 
   <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2042%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 152.0 kB Used in GitHub's Storage 
@@ -39,8 +41,43 @@
  > 
 > 🔑 47 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2026 10:41:14 UTC
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Luau                     1 hr 31 mins        █████████████░░░░░░░░░░░░   51.95 % 
+Other                    1 hr 14 mins        ███████████░░░░░░░░░░░░░░   42.51 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 41 mins (57.49%)
+
+✍️ 4,403 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 56,957,903 Input Tokens, 264,086 Output Tokens
+
+💵 $285.77 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 10 AI Prompts
+
+GPT                      4,424 lines         █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,018 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 14:43:52 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
