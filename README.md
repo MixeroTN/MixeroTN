@@ -47,16 +47,16 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    3 hrs 3 mins        █████████████████░░░░░░░░   66.21 % 
-Luau                     1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    3 hrs 43 mins       ██████████████████░░░░░░░   70.49 % 
+Luau                     1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (33.79%)
+⏱ AI Coding Time: 1 hr 33 mins (29.51%)
 
 ✍️ 4,188 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -77,7 +77,7 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/08/2026 22:18:25 UTC
+ Last Updated on 10/08/2026 10:56:44 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
