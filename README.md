@@ -33,7 +33,7 @@
 
 > 📦 152.0 kB Used in GitHub's Storage 
  > 
-> 🏆 284 Contributions in the Year 2026
+> 🏆 285 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,37 +47,37 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    3 hrs 43 mins       ██████████████████░░░░░░░   70.49 % 
-Luau                     1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    4 hrs 8 mins        ███████████████████░░░░░░   77.65 % 
+Luau                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (29.51%)
+⏱ AI Coding Time: 1 hr 11 mins (22.35%)
 
-✍️ 4,188 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,820 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 54,228,130 Input Tokens, 245,314 Output Tokens
+🔤 53,223,497 Input Tokens, 232,241 Output Tokens
 
-💵 $272.02 Estimated AI Cost This Week
+💵 $266.76 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 9 AI Prompts
+🧠 5 AI Sessions, 6 AI Prompts
 
-GPT                      4,204 lines         █████████████████████████   100.00 % 
+GPT                      3,836 lines         █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,063 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,373 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 22:25:37 UTC
+ Last Updated on 11/08/2026 10:40:31 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
