@@ -47,37 +47,17 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    4 hrs 8 mins        ███████████████████░░░░░░   77.65 % 
-Luau                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (22.35%)
-
-✍️ 3,820 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 53,223,497 Input Tokens, 232,241 Output Tokens
-
-💵 $266.76 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 6 AI Prompts
-
-GPT                      3,836 lines         █████████████████████████   100.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,373 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/08/2026 22:30:30 UTC
+ Last Updated on 12/08/2026 10:49:56 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
