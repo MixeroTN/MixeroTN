@@ -47,15 +47,15 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    5 hrs 47 mins       ███████████████████████░░   91.56 % 
-Luau                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    6 hrs 22 mins       ███████████████████████░░   92.26 % 
+Luau                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (8.44%)
+⏱ AI Coding Time: 32 mins (7.74%)
 
 ✍️ 68 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -75,7 +75,7 @@ GPT                      118 lines           ███████████�
 ```
 
 
- Last Updated on 21/08/2026 22:12:14 UTC
+ Last Updated on 22/08/2026 10:11:49 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
