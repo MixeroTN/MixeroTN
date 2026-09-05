@@ -47,38 +47,38 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    6 hrs 31 mins       ██████████████░░░░░░░░░░░   57.95 % 
-Markdown                 2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Luau                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    6 hrs 45 mins       ████████████████░░░░░░░░░   64.50 % 
+Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Luau                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 44 mins (42.05%)
+⏱ AI Coding Time: 3 hrs 43 mins (35.5%)
 
-✍️ 2,914 lines written by AI, 9 lines written by hand (99.69% AI-written)
+✍️ 2,476 lines written by AI, 9 lines written by hand (99.64% AI-written)
 
-🔤 6,608,234 Input Tokens, 807,992 Output Tokens
+🔤 6,231,935 Input Tokens, 722,188 Output Tokens
 
-💵 $114.48 Estimated AI Cost This Week
+💵 $101.23 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 41 AI Prompts
+🧠 11 AI Sessions, 37 AI Prompts
 
-GPT                      2,943 lines         ████████████████████████░   95.12 % 
-Codex-Vscode             151 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+GPT                      2,505 lines         ████████████████████████░   94.31 % 
+Codex-Vscode             151 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 314 characters per prompt
+🤖 AI-Driven — 99.64% of written lines came from AI
+📝 Concise Prompter — average 299 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 23:32:50 UTC
+ Last Updated on 05/09/2026 13:05:37 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
