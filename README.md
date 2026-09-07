@@ -47,19 +47,19 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    5 hrs 38 mins       ██████████████████░░░░░░░   72.11 % 
-Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Luau                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    7 hrs 59 mins       ████████████████████░░░░░   78.28 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Luau                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (27.89%)
+⏱ AI Coding Time: 2 hrs 10 mins (21.39%)
 
-✍️ 1,297 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,297 lines written by AI, 49 lines written by hand (96.36% AI-written)
 
 🔤 4,123,973 Input Tokens, 515,703 Output Tokens
 
@@ -71,14 +71,14 @@ GPT                      1,325 lines         ███████████�
 Codex-Vscode             142 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 96.36% of written lines came from AI
 📝 Concise Prompter — average 455 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 6.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 23:19:47 UTC
+ Last Updated on 07/09/2026 15:22:30 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
