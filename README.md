@@ -47,38 +47,38 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    7 hrs 59 mins       ████████████████████░░░░░   78.28 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Luau                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    8 hrs 11 mins       █████████████████████░░░░   83.65 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Luau                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (21.39%)
+⏱ AI Coding Time: 1 hr 34 mins (16.01%)
 
-✍️ 1,297 lines written by AI, 49 lines written by hand (96.36% AI-written)
+✍️ 583 lines written by AI, 49 lines written by hand (92.25% AI-written)
 
-🔤 4,123,973 Input Tokens, 515,703 Output Tokens
+🔤 2,353,577 Input Tokens, 295,467 Output Tokens
 
-💵 $58.01 Estimated AI Cost This Week
+💵 $27.78 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
-GPT                      1,325 lines         ███████████████████████░░   90.32 % 
-Codex-Vscode             142 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+GPT                      608 lines           ████████████████████░░░░░   81.07 % 
+Codex-Vscode             142 lines           █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.36% of written lines came from AI
-📝 Concise Prompter — average 455 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.38% of changed lines were hand-edited
+🤖 AI-Driven — 92.25% of written lines came from AI
+📝 Concise Prompter — average 258 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 11.76% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 23:50:36 UTC
+ Last Updated on 08/09/2026 13:58:30 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
