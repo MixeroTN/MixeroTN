@@ -47,38 +47,38 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    8 hrs 11 mins       █████████████████████░░░░   83.65 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Luau                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    8 hrs 10 mins       █████████████████████░░░░   84.36 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Luau                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (16.01%)
+⏱ AI Coding Time: 1 hr 28 mins (15.29%)
 
-✍️ 583 lines written by AI, 49 lines written by hand (92.25% AI-written)
+✍️ 540 lines written by AI, 49 lines written by hand (91.68% AI-written)
 
-🔤 2,353,577 Input Tokens, 295,467 Output Tokens
+🔤 2,120,607 Input Tokens, 282,346 Output Tokens
 
-💵 $27.78 Estimated AI Cost This Week
+💵 $21.35 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
-GPT                      608 lines           ████████████████████░░░░░   81.07 % 
-Codex-Vscode             142 lines           █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+GPT                      565 lines           ████████████████████░░░░░   79.92 % 
+Codex-Vscode             142 lines           █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.25% of written lines came from AI
-📝 Concise Prompter — average 258 characters per prompt
+🤖 AI-Driven — 91.68% of written lines came from AI
+📝 Concise Prompter — average 279 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.76% of changed lines were hand-edited
+🚀 High AI Trust — 12.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 23:44:31 UTC
+ Last Updated on 09/09/2026 14:00:59 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
