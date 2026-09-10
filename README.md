@@ -47,38 +47,37 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    8 hrs 10 mins       █████████████████████░░░░   84.36 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Luau                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Diff                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other                    6 hrs 50 mins       ███████████████████████░░   93.23 % 
+Luau                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (15.29%)
+⏱ AI Coding Time: 27 mins (6.3%)
 
-✍️ 540 lines written by AI, 49 lines written by hand (91.68% AI-written)
+✍️ 98 lines written by AI, 49 lines written by hand (66.67% AI-written)
 
-🔤 2,120,607 Input Tokens, 282,346 Output Tokens
+🔤 1,196,938 Input Tokens, 177,330 Output Tokens
 
 💵 $21.35 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-GPT                      565 lines           ████████████████████░░░░░   79.92 % 
-Codex-Vscode             142 lines           █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Codex-Vscode             142 lines           ███████████████░░░░░░░░░░   60.43 % 
+GPT                      93 lines            ██████████░░░░░░░░░░░░░░░   39.57 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.68% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 12.39% of changed lines were hand-edited
+🤖 AI-Driven — 66.67% of written lines came from AI
+📝 Concise Prompter — average 341 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 29.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 23:39:03 UTC
+ Last Updated on 10/09/2026 13:56:14 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
