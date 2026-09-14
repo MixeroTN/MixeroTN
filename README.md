@@ -47,8 +47,7 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    3 hrs 24 mins       █████████████████████████   99.01 % 
-Luau                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Other                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +57,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/09/2026 23:45:33 UTC
+ Last Updated on 14/09/2026 16:02:18 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
