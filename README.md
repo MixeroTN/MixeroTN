@@ -6,7 +6,7 @@
 </a>
 <h1>Hi there, I'm Michał! 👋</h1>
 <!-- <a href="#---" rel="tag"> -->
-<h3>Senior Lua/Roblox Developer | Technical Architect | Open-Source Contributor</h3>
+<h3>Senior Software Engineer | Gameplay & Systems Architect | Open-Source Contributor"</h3>
 <a href="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" rel="external">
   <img src="https://komarev.com/ghpvc/?username=MixeroTN&color=0e75b6&style=for-the-badge" title="Profile views" alt="The image displaying a profile views. The linked page also provides the view count in the title."></a>
 <h2>Funfacts about me</h2>
