@@ -27,7 +27,7 @@
   <p>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,37 +47,37 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    4 hrs 56 mins       █████████████████████░░░░   85.25 % 
-Luau                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    6 hrs 4 mins        ███████████████████░░░░░░   74.47 % 
+Luau                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (14.75%)
+⏱ AI Coding Time: 2 hrs 7 mins (25.94%)
 
-✍️ 377 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 497 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 275,179 Input Tokens, 17,913 Output Tokens
+🔤 1,449,855 Input Tokens, 75,552 Output Tokens
 
-💵 $7.61 Estimated AI Cost This Week
+💵 $24.03 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
-GPT                      261 lines           █████████████████░░░░░░░░   68.87 % 
-Opus                     118 lines           ████████░░░░░░░░░░░░░░░░░   31.13 % 
+GPT                      393 lines           ███████████████████░░░░░░   76.91 % 
+Opus                     118 lines           ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 277 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 845 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 00:07:36 UTC
+ Last Updated on 25/09/2026 14:50:43 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
