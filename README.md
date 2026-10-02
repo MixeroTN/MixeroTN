@@ -33,7 +33,7 @@
 
 > 📦 152.1 kB Used in GitHub's Storage 
  > 
-> 🏆 323 Contributions in the Year 2026
+> 🏆 325 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,38 +47,38 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    9 hrs 8 mins        ██████████████░░░░░░░░░░░   57.15 % 
-Luau                     5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.89 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    8 hrs 42 mins       ███████████████░░░░░░░░░░   60.74 % 
+Luau                     4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.86 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 20 mins (45.9%)
+⏱ AI Coding Time: 6 hrs 4 mins (42.42%)
 
-✍️ 2,984 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,864 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,478,693 Input Tokens, 469,858 Output Tokens
+🔤 5,304,017 Input Tokens, 412,219 Output Tokens
 
-💵 $79.62 Estimated AI Cost This Week
+💵 $63.19 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 62 AI Prompts
+🧠 9 AI Sessions, 54 AI Prompts
 
-GPT                      3,289 lines         █████████████████████████   100.00 % 
+GPT                      3,157 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 582 characters per prompt
+📝 Concise Prompter — average 460 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 22:06:11 UTC
+ Last Updated on 02/10/2026 16:00:50 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
