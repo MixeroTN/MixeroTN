@@ -27,13 +27,13 @@
   <p>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 152.1 kB Used in GitHub's Storage 
  > 
-> 🏆 336 Contributions in the Year 2026
+> 🏆 339 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,38 +47,40 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    10 hrs 9 mins       █████████████████░░░░░░░░   66.47 % 
-Luau                     4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    13 hrs 39 mins      ███████████████████░░░░░░   75.17 % 
+Luau                     3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 34 mins (36.5%)
+⏱ AI Coding Time: 4 hrs 50 mins (26.63%)
 
-✍️ 2,860 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,199 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,700,912 Input Tokens, 350,086 Output Tokens
+🔤 2,930,866 Input Tokens, 316,217 Output Tokens
 
-💵 $43.05 Estimated AI Cost This Week
+💵 $34.30 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 51 AI Prompts
+🧠 8 AI Sessions, 47 AI Prompts
 
-GPT                      3,032 lines         █████████████████████████   100.00 % 
+GPT                      2,319 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 533 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 2,828 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 01:58:20 UTC
+ Last Updated on 06/10/2026 16:22:16 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
