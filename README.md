@@ -33,7 +33,7 @@
 
 > 📦 152.0 kB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2026
+> 🏆 354 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,17 +47,17 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    17 hrs 47 mins      ███████████████████████░░   91.00 % 
-Luau                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    15 hrs 26 mins      ██████████████████████░░░   89.77 % 
+Luau                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (10.23%)
+⏱ AI Coding Time: 1 hr 59 mins (11.62%)
 
 ✍️ 473 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -79,7 +79,7 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/10/2026 00:48:39 UTC
+ Last Updated on 12/10/2026 19:29:34 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
