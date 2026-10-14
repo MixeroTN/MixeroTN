@@ -47,38 +47,37 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    15 hrs 49 mins      ██████████████████████░░░   89.75 % 
-Luau                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    18 hrs 32 mins      ████████████████████████░   94.42 % 
+Luau                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (11.62%)
+⏱ AI Coding Time: 1 hr 20 mins (6.8%)
 
-✍️ 457 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 226 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,169,376 Input Tokens, 105,051 Output Tokens
+🔤 696,880 Input Tokens, 61,828 Output Tokens
 
-💵 $7.79 Estimated AI Cost This Week
+💵 $5.06 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 19 AI Prompts
+🧠 8 AI Sessions, 11 AI Prompts
 
-GPT                      647 lines           █████████████████████████   100.00 % 
+GPT                      400 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 802 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 22:03:52 UTC
+ Last Updated on 14/10/2026 14:45:51 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
