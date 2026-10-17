@@ -47,35 +47,35 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    16 hrs 36 mins      ████████████████████████░   97.92 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Luau                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    16 hrs 46 mins      ████████████████████████░   97.62 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Luau                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (3.5%)
+⏱ AI Coding Time: 29 mins (2.83%)
 
-✍️ 14 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 40 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 216,492 Input Tokens, 14,236 Output Tokens
+🔤 306,233 Input Tokens, 22,883 Output Tokens
 
-💵 $0.50 Estimated AI Cost This Week
+💵 $0.31 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-GPT                      161 lines           █████████████████████████   100.00 % 
+GPT                      48 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,252 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 882 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 00:02:09 UTC
+ Last Updated on 17/10/2026 13:20:33 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
