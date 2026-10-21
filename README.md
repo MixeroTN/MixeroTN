@@ -47,35 +47,35 @@
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Other                    13 hrs 45 mins      █████████████████████████   98.22 % 
-Luau                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    7 hrs 31 mins       ████████████████████████░   97.49 % 
+Luau                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (1.78%)
+⏱ AI Coding Time: 11 mins (2.51%)
 
-✍️ 121 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 964,946 Input Tokens, 72,527 Output Tokens
+🔤 845,084 Input Tokens, 62,188 Output Tokens
 
-💵 $59.20 Estimated AI Cost This Week
+💵 $59.17 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      97 lines            ███████████████████░░░░░░   75.19 % 
-Codex-Vscode             32 lines            ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+GPT                      63 lines            █████████████████░░░░░░░░   66.32 % 
+Codex-Vscode             32 lines            ████████░░░░░░░░░░░░░░░░░   33.68 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 572 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 00:13:06 UTC
+ Last Updated on 21/10/2026 14:44:47 UTC
 <!--END_SECTION:waka-->
   </p>
 </details>
